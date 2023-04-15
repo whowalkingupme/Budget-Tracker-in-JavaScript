@@ -1,5 +1,7 @@
 # Create A Budget Tracker in HTML CSS & JavaScript
 
+![Create-A-Budget-Tracker-in-HTML-CSS-JavaScript](https://user-images.githubusercontent.com/46256884/232184577-2e4376c5-a9fe-45cb-8353-93332b5bd5b2.jpg)
+
 A budget tracker is a great tool to help you track your income and expenses. It can also be a challenging and rewarding coding project that allows you to apply your skills to create a practical tool. In this article, we’ll show you how to create a simple yet effective Budget Tracker using HTML, CSS, and JavaScript.
 
 This article is suitable for developers of all levels and will provide something for everyone. We will begin by setting up the HTML structure and styling the user interface with CSS, and then use JavaScript to implement features such as inputting and storing income and expenses, calculating the total budget, and displaying the data.
